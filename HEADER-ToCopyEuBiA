@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-15" standalone="yes"?>
+<OPENQCAT version="1.1" xsi:noNamespaceSchemaLocation="openQ-cat.V1.1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HEADER>
+        <GENERATOR_INFO>EuBiA Yassine</GENERATOR_INFO>
+        <CATALOG>
+            <LANGUAGE>deu</LANGUAGE>
+            <CATALOG_ID>299963-1718710616528</CATALOG_ID>
+            <CATALOG_VERSION>Vers_KURSNET</CATALOG_VERSION>
+            <CATALOG_NAME>KURSNET-EuBiA-Import</CATALOG_NAME>
+            <GENERATION_DATE>2024-06-18T13:36:56.528+02:00</GENERATION_DATE>
+        </CATALOG>
+        <SUPPLIER>
+            <SUPPLIER_ID type="supplier_specific">90037</SUPPLIER_ID>
+            <SUPPLIER_NAME>EuBiA GmbH </SUPPLIER_NAME>
+            <ADDRESS>
+                <NAME>EuBiA GmbH</NAME>
+                <STREET>Graf-Adolf-Stra�e 108</STREET>
+                <ZIP>40210</ZIP>
+                <CITY>D�sseldorf</CITY>
+                <STATE>Nordrhein-Westfalen</STATE>
+                <COUNTRY>deutschland</COUNTRY>
+                <PHONE>+49.211.91382918</PHONE>
+                <MOBILE></MOBILE>
+                <FAX></FAX>
+                <EMAILS>
+                    <EMAIL>info@eubia.de</EMAIL>
+                </EMAILS>
+                <URL>http://www.eubia.de</URL>
+            </ADDRESS>
+            <CONTACT>
+                <CONTACT_ROLE type="5">Sonstige</CONTACT_ROLE>
+                <SALUTATION>m</SALUTATION>
+                <FIRST_NAME>Rachid</FIRST_NAME>
+                <LAST_NAME>Debdoubi</LAST_NAME>
+                <PHONE>+49.211.91382918</PHONE>
+                <MOBILE></MOBILE>
+                <FAX></FAX>
+                <EMAILS>
+                    <EMAIL>r.debdoubi@eubia.de</EMAIL>
+                </EMAILS>
+                <URL>http://www.eubia.de</URL>
+                <ID_DB>439593</ID_DB>
+                <CONTACT_REMARKS>Gesch�ftsf�hrer</CONTACT_REMARKS>
+            </CONTACT>
+            <KEYWORD>Learning</KEYWORD>
+            <KEYWORD>Bildung</KEYWORD>
+            <KEYWORD>Deutsche</KEYWORD>
+            <KEYWORD>Eubia</KEYWORD>
+            <EXTENDED_INFO input_type="2">
+                <ORGANIZATIONAL_FORM type="2">Private Bildungseinrichtung</ORGANIZATIONAL_FORM>
+            </EXTENDED_INFO>
+        </SUPPLIER>
+    </HEADER>
