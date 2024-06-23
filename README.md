@@ -1,6 +1,9 @@
 # XML-Schnittstelle
 
-XML Generation from Excel Data.  ----- German Version Below ------
+
+ ----- German Version Below ------
+
+XML Generation from Excel Data. 
 Description
 
 This Python script converts data from an Excel file into a structured XML format suitable for various applications requiring XML data input. It is designed to handle specific data fields and convert them according to pre-defined XML schema requirements.
@@ -22,8 +25,8 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Serotonin-ovo/XML-Schnittstelle.git
+cd XML-Schnittstelle
 
 Install Required Python Libraries:
 
@@ -91,8 +94,8 @@ Installation
 
     im terminal 
 
-git clone https://github.com/IhrBenutzername/IhrRepositoryName.git
-cd IhrRepositoryName
+git clone https://github.com/Serotonin-ovo/XML-Schnittstelle.git
+cd XML-Schnittstelle
 
 Erforderliche Python-Bibliotheken installieren:
 
