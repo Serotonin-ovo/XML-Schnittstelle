@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-15" standalone="yes"?>
+<OPENQCAT version="1.1" xsi:noNamespaceSchemaLocation="openQ-cat.V1.1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <HEADER>
+        <GENERATOR_INFO>Export OpenQ 3.45.0</GENERATOR_INFO>
+        <CATALOG>
+            <LANGUAGE>deu</LANGUAGE>
+            <CATALOG_ID>299963-1718710616528</CATALOG_ID>
+            <CATALOG_VERSION>Vers_KURSNET</CATALOG_VERSION>
+            <CATALOG_NAME>KURSNET-Export</CATALOG_NAME>
+            <GENERATION_DATE>2024-06-18T13:36:56.528+02:00</GENERATION_DATE>
+        </CATALOG>
+        <DOCUMENT_CREATOR>
+            <FIRST_NAME>Exporter</FIRST_NAME>
+            <LAST_NAME>openQ-CAT</LAST_NAME>
+            <PHONE>+49.911.179</PHONE>
+            <ID_DB>nr:6528</ID_DB>
+            <ADDRESS>
+                <NAME>IT-Systemhaus</NAME>
+                <STREET>Regensburgerstr. 104</STREET>
+                <ZIP>90478</ZIP>
+                <CITY>N�rnberg</CITY>
+                <COUNTRY>DE</COUNTRY>
+                <URL>http://www.kursnet-online.arbeitsagentur.de</URL>
+                <ID_DB>adr:160</ID_DB>
+            </ADDRESS>
+            <CONTACT_REMARKS>Eugen Riske</CONTACT_REMARKS>
+        </DOCUMENT_CREATOR>
+        <RECIPIENT>
+            <RECIPIENT_ID>BA</RECIPIENT_ID>
+            <RECIPIENT_NAME>Informationssystem KURSNET</RECIPIENT_NAME>
+            <ADDRESS>
+                <NAME>IT-Systemhaus</NAME>
+                <STREET>Regensburgerstr. 104</STREET>
+                <ZIP>90478</ZIP>
+                <CITY>N�rnberg</CITY>
+                <COUNTRY>DE</COUNTRY>
+                <URL>http://www.kursnet-online.arbeitsagentur.de</URL>
+            </ADDRESS>
+        </RECIPIENT>
+        <SUPPLIER>
+            <SUPPLIER_ID type="supplier_specific">299963</SUPPLIER_ID>
+            <SUPPLIER_NAME>Deutsche E-Learning Akademie </SUPPLIER_NAME>
+            <ADDRESS>
+                <NAME>Deutsche E-Learning Akademie</NAME>
+                <STREET>F�rstenwall 178</STREET>
+                <ZIP>40215</ZIP>
+                <CITY>D�sseldorf</CITY>
+                <STATE>Nordrhein-Westfalen</STATE>
+                <COUNTRY>deutschland</COUNTRY>
+                <PHONE>+49.176.62295910</PHONE>
+                <MOBILE></MOBILE>
+                <FAX></FAX>
+                <EMAILS>
+                    <EMAIL>florin@dela-akademie.de</EMAIL>
+                </EMAILS>
+                <URL>http://www.dela-akademie.de</URL>
+            </ADDRESS>
+            <CONTACT>
+                <CONTACT_ROLE type="5">Sonstige</CONTACT_ROLE>
+                <SALUTATION>m</SALUTATION>
+                <FIRST_NAME>Florin</FIRST_NAME>
+                <LAST_NAME>Milla</LAST_NAME>
+                <PHONE>+49.176.62295910</PHONE>
+                <MOBILE></MOBILE>
+                <FAX></FAX>
+                <EMAILS>
+                    <EMAIL>florin@dela-akademie.de</EMAIL>
+                </EMAILS>
+                <URL>http://www.dela-akademie.de</URL>
+                <ID_DB>1260593</ID_DB>
+                <CONTACT_REMARKS>Gesch�ftsf�hrer</CONTACT_REMARKS>
+            </CONTACT>
+            <CONTACT>
+                <CONTACT_ROLE type="5">Sonstige</CONTACT_ROLE>
+                <SALUTATION>m</SALUTATION>
+                <FIRST_NAME>Rachid</FIRST_NAME>
+                <LAST_NAME>Debdoubi</LAST_NAME>
+                <PHONE>+21.1.62295910</PHONE>
+                <MOBILE></MOBILE>
+                <FAX></FAX>
+                <EMAILS>
+                    <EMAIL>r.debdoubi74@gmail.com</EMAIL>
+                </EMAILS>
+                <ID_DB>1262936</ID_DB>
+                <CONTACT_REMARKS></CONTACT_REMARKS>
+            </CONTACT>
+            <KEYWORD>Learning</KEYWORD>
+            <KEYWORD>Deutsche E-Learning Akademie</KEYWORD>
+            <KEYWORD>Deutsche</KEYWORD>
+            <KEYWORD>Akademie</KEYWORD>
+            <EXTENDED_INFO input_type="2">
+                <ORGANIZATIONAL_FORM type="2">Private Bildungseinrichtung</ORGANIZATIONAL_FORM>
+            </EXTENDED_INFO>
+        </SUPPLIER>
+    </HEADER>
