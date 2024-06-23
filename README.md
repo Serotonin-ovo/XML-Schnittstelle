@@ -48,11 +48,11 @@ Running the Script
 
     Execute the Script:
 
-    bash
+    open a terminal in the directory where the script and the excel list are
 
-    python script_name.py
+    python3 gen2.py
 
-    Replace script_name.py with the name of your Python script.
+    
 
     Output:
         The script will generate an XML file named Delafinal6k.xml in the project directory.
@@ -62,14 +62,14 @@ Post-Processing
 After generating the XML file:
 
     Replace the First Line: Open the generated XML file and replace the first line with the contents of the header file (if applicable).
-    Add Closing Tag: Ensure the </OPENQCAT> tag is present at the end of the XML file to properly close the XML structure.
+    (important !!) Add Closing Tag: Ensure the </OPENQCAT> tag is present at the end of the XML file to properly close the XML structure.
 
 
 
 -------------------------German --------------------
 Projekt-Titel
 
-XML-Generierung aus Excel-Daten
+XML-Schnittstelle aus Excel-Daten
 Beschreibung
 
 Dieses Python-Skript konvertiert Daten aus einer Excel-Datei in ein strukturiertes XML-Format, das für verschiedene Anwendungen geeignet ist, die XML-Dateneingaben erfordern. Es ist darauf ausgelegt, spezifische Datenfelder zu verarbeiten und entsprechend vordefinierten XML-Schema-Anforderungen zu konvertieren.
@@ -89,14 +89,14 @@ Installation
 
     Repository klonen:
 
-    bash
+    im terminal 
 
 git clone https://github.com/IhrBenutzername/IhrRepositoryName.git
 cd IhrRepositoryName
 
 Erforderliche Python-Bibliotheken installieren:
 
-bash
+im terminal
 
     pip install pandas pytz
 
@@ -119,9 +119,9 @@ Das Skript ausführen
 
     bash
 
-    python script_name.py
+    python gen2.py
 
-    Ersetzen Sie script_name.py durch den Namen Ihres Python-Skripts.
+    
 
     Ausgabe:
         Das Skript generiert eine XML-Datei mit dem Namen Delafinal6k.xml im Projektverzeichnis.
@@ -131,7 +131,7 @@ Nachbearbeitung
 Nach der Generierung der XML-Datei:
 
     Erste Zeile ersetzen: Öffnen Sie die generierte XML-Datei und ersetzen Sie die erste Zeile durch den Inhalt der Header-Datei (falls zutreffend).
-    Abschließenden Tag hinzufügen: Stellen Sie sicher, dass der Tag </OPENQCAT> am Ende der XML-Datei vorhanden ist, um die XML-Struktur ordnungsgemäß zu schließen.
+    (Wichtig !!!)Abschließenden Tag hinzufügen: Stellen Sie sicher, dass der Tag </OPENQCAT> am Ende der XML-Datei vorhanden ist, um die XML-Struktur ordnungsgemäß zu schließen.
 
 
 
